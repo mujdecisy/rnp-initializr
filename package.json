@@ -1,0 +1,12 @@
+{
+  "name": "rnp-initializr",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "rnp-initializr" : "./index.js"
+  },
+  "author": "mujdecisy"
+}
