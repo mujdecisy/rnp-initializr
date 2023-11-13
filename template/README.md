@@ -1,6 +1,6 @@
 # <<projectNameSpaces>>
 
 ```
-$ yarn install
-$ yarn web
+$ npm install
+$ npm run web
 ```
